@@ -1,4 +1,4 @@
-### Android Training Simples
+### Android Training Simples，一些好玩儿的动画效果
 
 
 **不定期更新中...**
